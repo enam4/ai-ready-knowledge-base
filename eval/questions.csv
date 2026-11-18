@@ -1,0 +1,41 @@
+id,question,issue_id,style
+1,"Customer's screen went black right after the update last night, what do I do?",1007,plain
+2,"Display just says No Signal",1004,plain
+3,"Player keeps going offline at the Wi-Fi site",1008,plain
+4,"Their new menu isn't showing, still the old content",1002,plain
+5,"Getting error E-104 on an X1",1007,code
+6,"client updated their playlist yesterday but the screens still show last week's promo",1002,vague
+7,"schedual not working, new content never started",1002,typo
+8,"changes in the console aren't reaching the screen",1002,vague
+9,"Screen flickers and has lines across it",1003,plain
+10,"display keeps flashing while content plays",1003,vague
+11,"image looks distorted with horizontal lines",1003,vague
+12,"flikering screen at the downtown site",1003,typo
+13,"TV shows a blue screen with no input",1004,vague
+14,"screen says no singal after the cleaning crew moved it",1004,typo
+15,"display is on but can't find a source",1004,vague
+16,"Content is showing sideways",1005,plain
+17,"menu board displaying upside down",1005,vague
+18,"they mounted the screen vertically and now everything is rotated",1005,vague
+19,"wrong orientation on the 75 inch",1005,vague
+20,"Video plays but there is no sound",1006,plain
+21,"the ad has no audio at the store",1006,vague
+22,"customer says its muted, cant hear anything",1006,typo
+23,"sound stopped working on the player",1006,vague
+24,"blank screen since the firmware upgrade, LED blinking amber",1007,vague
+25,"display is on but nothing is showing after the update",1007,vague
+26,"E210 on the player",1008,code
+27,"device dropped off the network after they changed the router",1008,vague
+28,"player disconects every few hours",1008,typo
+29,"Player restarts by itself randomly",1009,plain
+30,"X2 Pro is really hot to the touch",1009,vague
+31,"error E-310",1009,code
+32,"keeps rebooting, it's in a closed cabinet behind the TV",1009,vague
+33,"Download failed, not enough space",1010,plain
+34,"new content won't load and storage says full",1010,vague
+35,"E-507 on the X2",1010,code
+36,"playlist fails to download on the pro player",1010,vague
+37,"Kiosk touchscreen not responding",1011,plain
+38,"taps are ignored on the K1",1011,vague
+39,"E620 on the kiosk",1011,code
+40,"touch screen frozen, customers can't order",1011,vague

@@ -1,0 +1,121 @@
+condition,id,style,issue_id,hit1,hit3,stale1,top1
+before,1,plain,1007,0,1,1,Firmware Update FAQ (2025)
+before,2,plain,1004,0,1,0,Display issues - misc
+before,3,plain,1008,0,1,1,Firmware Update FAQ (2025)
+before,4,plain,1002,0,0,0,Display issues - misc
+before,5,code,1007,1,1,0,X1 Player Notes (updated)
+before,6,vague,1002,1,1,0,X1 Player Notes (updated)
+before,7,typo,1002,0,1,0,X2 Pro and K1 Kiosk FAQ
+before,8,vague,1002,0,1,0,Display issues - misc
+before,9,plain,1003,0,1,0,X1 Player Notes (updated)
+before,10,vague,1003,1,1,0,Display issues - misc
+before,11,vague,1003,0,1,0,X1 Player Notes (updated)
+before,12,typo,1003,0,1,0,X2 Pro and K1 Kiosk FAQ
+before,13,vague,1004,1,1,0,X1 Player Notes (updated)
+before,14,typo,1004,0,1,0,Firmware Update FAQ (2025)
+before,15,vague,1004,0,1,0,Display issues - misc
+before,16,plain,1005,1,1,0,Display issues - misc
+before,17,vague,1005,1,1,0,Display issues - misc
+before,18,vague,1005,0,1,0,X2 Pro and K1 Kiosk FAQ
+before,19,vague,1005,1,1,0,Display issues - misc
+before,20,plain,1006,1,1,0,Display issues - misc
+before,21,vague,1006,1,1,0,Display issues - misc
+before,22,typo,1006,1,1,0,Display issues - misc
+before,23,vague,1006,0,1,0,Firmware Update FAQ (2025)
+before,24,vague,1007,0,1,1,Firmware Update FAQ (2025)
+before,25,vague,1007,0,1,1,Firmware Update FAQ (2025)
+before,26,code,1008,0,1,1,Firmware Update FAQ (2025)
+before,27,vague,1008,0,1,1,Firmware Update FAQ (2025)
+before,28,typo,1008,0,1,1,Firmware Update FAQ (2025)
+before,29,plain,1009,0,0,0,X1 Player Notes (updated)
+before,30,vague,1009,1,1,0,X2 Pro and K1 Kiosk FAQ
+before,31,code,1009,1,1,0,X2 Pro and K1 Kiosk FAQ
+before,32,vague,1009,1,1,0,X2 Pro and K1 Kiosk FAQ
+before,33,plain,1010,1,1,0,X2 Pro and K1 Kiosk FAQ
+before,34,vague,1010,1,1,0,X2 Pro and K1 Kiosk FAQ
+before,35,code,1010,1,1,0,X2 Pro and K1 Kiosk FAQ
+before,36,vague,1010,0,0,0,Firmware Update FAQ (2025)
+before,37,plain,1011,1,1,0,X2 Pro and K1 Kiosk FAQ
+before,38,vague,1011,1,1,0,X2 Pro and K1 Kiosk FAQ
+before,39,code,1011,1,1,0,X2 Pro and K1 Kiosk FAQ
+before,40,vague,1011,1,1,0,X2 Pro and K1 Kiosk FAQ
+after,1,plain,1007,1,1,0,Black screen after a firmware update
+after,2,plain,1004,1,1,0,Display shows 'No signal'
+after,3,plain,1008,1,1,0,Player goes offline on a Wi-Fi site
+after,4,plain,1002,1,1,0,"New content not showing, old content still playing"
+after,5,code,1007,1,1,0,Black screen after a firmware update
+after,6,vague,1002,0,1,0,Black screen after a firmware update
+after,7,typo,1002,1,1,0,"New content not showing, old content still playing"
+after,8,vague,1002,0,0,0,Screen flickers or shows lines
+after,9,plain,1003,1,1,0,Screen flickers or shows lines
+after,10,vague,1003,0,1,0,"New content not showing, old content still playing"
+after,11,vague,1003,1,1,0,Screen flickers or shows lines
+after,12,typo,1003,1,1,0,Screen flickers or shows lines
+after,13,vague,1004,1,1,0,Display shows 'No signal'
+after,14,typo,1004,1,1,0,Display shows 'No signal'
+after,15,vague,1004,0,1,0,Screen flickers or shows lines
+after,16,plain,1005,0,1,0,"New content not showing, old content still playing"
+after,17,vague,1005,1,1,0,Content appears sideways or upside down
+after,18,vague,1005,0,0,0,Screen flickers or shows lines
+after,19,vague,1005,1,1,0,Content appears sideways or upside down
+after,20,plain,1006,1,1,0,Video plays but there is no sound
+after,21,vague,1006,1,1,0,Video plays but there is no sound
+after,22,typo,1006,1,1,0,Video plays but there is no sound
+after,23,vague,1006,1,1,0,Video plays but there is no sound
+after,24,vague,1007,1,1,0,Black screen after a firmware update
+after,25,vague,1007,1,1,0,Black screen after a firmware update
+after,26,code,1008,1,1,0,Player goes offline on a Wi-Fi site
+after,27,vague,1008,1,1,0,Player goes offline on a Wi-Fi site
+after,28,typo,1008,1,1,0,Player goes offline on a Wi-Fi site
+after,29,plain,1009,1,1,0,Player reboots on its own or feels hot
+after,30,vague,1009,1,1,0,Player reboots on its own or feels hot
+after,31,code,1009,1,1,0,Player reboots on its own or feels hot
+after,32,vague,1009,1,1,0,Player reboots on its own or feels hot
+after,33,plain,1010,1,1,0,"Player storage full, new content fails to download"
+after,34,vague,1010,1,1,0,"Player storage full, new content fails to download"
+after,35,code,1010,1,1,0,"Player storage full, new content fails to download"
+after,36,vague,1010,1,1,0,"Player storage full, new content fails to download"
+after,37,plain,1011,1,1,0,Touchscreen not responding to taps
+after,38,vague,1011,1,1,0,Touchscreen not responding to taps
+after,39,code,1011,1,1,0,Touchscreen not responding to taps
+after,40,vague,1011,1,1,0,Touchscreen not responding to taps
+"after, no metadata",1,plain,1007,1,1,0,Black screen after a firmware update
+"after, no metadata",2,plain,1004,1,1,0,Display shows 'No signal'
+"after, no metadata",3,plain,1008,1,1,0,Player goes offline on a Wi-Fi site
+"after, no metadata",4,plain,1002,1,1,0,"New content not showing, old content still playing"
+"after, no metadata",5,code,1007,1,1,0,Black screen after a firmware update
+"after, no metadata",6,vague,1002,0,1,0,Black screen after a firmware update
+"after, no metadata",7,typo,1002,1,1,0,"New content not showing, old content still playing"
+"after, no metadata",8,vague,1002,0,1,0,Touchscreen not responding to taps
+"after, no metadata",9,plain,1003,1,1,0,Screen flickers or shows lines
+"after, no metadata",10,vague,1003,0,1,0,Content appears sideways or upside down
+"after, no metadata",11,vague,1003,1,1,0,Screen flickers or shows lines
+"after, no metadata",12,typo,1003,1,1,0,Screen flickers or shows lines
+"after, no metadata",13,vague,1004,0,1,0,Screen flickers or shows lines
+"after, no metadata",14,typo,1004,0,1,0,Black screen after a firmware update
+"after, no metadata",15,vague,1004,1,1,0,Display shows 'No signal'
+"after, no metadata",16,plain,1005,0,1,0,"New content not showing, old content still playing"
+"after, no metadata",17,vague,1005,1,1,0,Content appears sideways or upside down
+"after, no metadata",18,vague,1005,0,1,0,Player reboots on its own or feels hot
+"after, no metadata",19,vague,1005,1,1,0,Content appears sideways or upside down
+"after, no metadata",20,plain,1006,1,1,0,Video plays but there is no sound
+"after, no metadata",21,vague,1006,1,1,0,Video plays but there is no sound
+"after, no metadata",22,typo,1006,1,1,0,Video plays but there is no sound
+"after, no metadata",23,vague,1006,1,1,0,Video plays but there is no sound
+"after, no metadata",24,vague,1007,1,1,0,Black screen after a firmware update
+"after, no metadata",25,vague,1007,1,1,0,Black screen after a firmware update
+"after, no metadata",26,code,1008,0,1,0,Player reboots on its own or feels hot
+"after, no metadata",27,vague,1008,1,1,0,Player goes offline on a Wi-Fi site
+"after, no metadata",28,typo,1008,0,0,0,Player reboots on its own or feels hot
+"after, no metadata",29,plain,1009,1,1,0,Player reboots on its own or feels hot
+"after, no metadata",30,vague,1009,0,1,0,Touchscreen not responding to taps
+"after, no metadata",31,code,1009,0,0,0,Display shows 'No signal'
+"after, no metadata",32,vague,1009,1,1,0,Player reboots on its own or feels hot
+"after, no metadata",33,plain,1010,0,1,0,Touchscreen not responding to taps
+"after, no metadata",34,vague,1010,1,1,0,"Player storage full, new content fails to download"
+"after, no metadata",35,code,1010,0,1,0,Player reboots on its own or feels hot
+"after, no metadata",36,vague,1010,1,1,0,"Player storage full, new content fails to download"
+"after, no metadata",37,plain,1011,1,1,0,Touchscreen not responding to taps
+"after, no metadata",38,vague,1011,1,1,0,Touchscreen not responding to taps
+"after, no metadata",39,code,1011,1,1,0,Touchscreen not responding to taps
+"after, no metadata",40,vague,1011,1,1,0,Touchscreen not responding to taps
